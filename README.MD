@@ -1,2 +1,4 @@
 ## Java Programming and Data Structure 
-- Spring 2023 
+
+- Introduction to Java Programming and Data Structures, Comprehensive Version
+Y. Daniel Liang
